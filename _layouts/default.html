@@ -16,8 +16,12 @@
 				<p id='minibio'>Ultra cool person</p>
 			</div>
 			<ul id='navigation'>
-				<hr />
-				<li><a href='#'>Home</a></li>
+        {% for item in site.data.internallinks %}
+          <hr />
+          <li><a href="{{ item.link }}">
+            {{ item.name }}
+          </a></li>
+        {% endfor %}
 				<hr />
 			</ul>
       <ul id='authorlinks'>

@@ -34,7 +34,7 @@ a {
 
 #sidebar ul a {
 	color: #db0;
-	padding-bottom: 5px;
+    display: block;
 }
 
 #sidebar {
