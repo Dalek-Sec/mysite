@@ -18,21 +18,21 @@ a {
 	text-decoration: none;
 }
 
-li:hover {
+#sidebar li:hover {
 	background-color: purple;
 }
 
-hr {
+#sidebar hr {
 	margin: 0;
 }
 
-ul {
+#sidebar ul {
 	list-style-type: none;
     margin: 0;
 	padding: 0;
 }
 
-ul a {
+#sidebar ul a {
 	color: #db0;
 	padding-bottom: 5px;
 }
