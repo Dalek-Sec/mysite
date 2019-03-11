@@ -6,7 +6,7 @@
   <meta name="author" content="Sebastian Hanus">
   <meta name="description" content="Sebastian Hanus' website">
   <meta name="keywords" content="sebastian,hanus,developer,python">
-  <link rel="stylesheet" href="/stylesheet.css" type="text/css">
+  <link rel="stylesheet" href="{{/stylesheet.css | relative_url }}" type="text/css">
   </head>
   <body>
     <div id='sidebar'>
@@ -17,13 +17,13 @@
       <ul id='navigation'>
         <hr />
         {% for item in site.data.internallinks %}
-          <li><a href="{{ item.link }}">{{ item.name }}</a></li><hr />
+          <li><a href="{{ item.link | relative_url }}">{{ item.name }}</a></li><hr />
         {% endfor %}
       </ul>
       <ul id='authorlinks'>
         <hr />
         {% for item in site.data.externallinks %}
-          <li><a href="{{ item.link }}">{{ item.name }}</a></li><hr />
+          <li><a href="{{ item.link | relative_url }}">{{ item.name }}</a></li><hr />
         {% endfor %}
       </ul>
     </div>
