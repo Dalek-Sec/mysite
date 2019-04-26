@@ -2,7 +2,7 @@ collections:
   - talks
 
 baseurl:
-url: localhost:4000
+url: sebastianhanus.github.io
 
 plugins:
   - jekyll-sitemap
