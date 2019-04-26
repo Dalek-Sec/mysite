@@ -1,8 +1,11 @@
- - name: Home
+ - name: About
    link: /
 
  - name: Blog
    link: /blog
+
+ - name: Talks
+   link: /talks
 
  - name: Feed
    link: /feed.xml

@@ -1,0 +1,10 @@
+---
+layout: default
+title: Talks
+---
+{% for talk in site.talks %}
+  <div class="contentbox">
+    <h2>{{ talk.title }}</h2>
+    <p>{{ talk.content }}</p>
+  </div>
+{% endfor %}
