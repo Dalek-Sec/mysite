@@ -17,9 +17,18 @@ a {
     color: orange;
 	text-decoration: none;
 }
+a:hover {
+    color: orangered;
+    animation-name: aanim;
+    animation-duration: 1s;
+}
+@keyframes aanim {
+    0%   {color: orange;}
+    100% {color: orangered;}
+}
 
 #sidebar li:hover {
-	background-color: purple;
+    background-image: linear-gradient(90deg, black 20%, purple);
 }
 
 #sidebar hr {
@@ -35,6 +44,7 @@ a {
 #sidebar ul a {
 	color: #db0;
     display: block;
+    animation: none;
 }
 
 #sidebar {
