@@ -10,4 +10,3 @@ In my free time, I play Minecraft and write code to collect and analyze data to 
 
 I never log onto Twitter unless I’m tweeting about a conference, so if you contact me on Twitter, don’t expect a fast response. Alternatively, if you want to contact me to talk about cyber-security, giving me a job, or liberating humanity, please reach me at [sebastianxhanus@gmail.com](mailto:sebastianxhanus@gmail.com)! If you’re super cool and 1337, you can suggest another medium for communication over email while using my PGP key.
 
-You can find this site mirrored on [Freenet](https://freenetproject.org/): (Flog not yet up, but now we're both on a watchlist since I mentioned Freenet)
