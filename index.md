@@ -4,7 +4,7 @@ title: Home
 ---
 Welcome to my 90's style handcoded [Jekyll](https://jekyllrb.com/) site! :3  
 No Javascript. No added trackers\*. Probably would load fast over dial-up.  
-\* Github presumably keeps packet logs.
+\* Besides GitHub's packet logs.
 
 I enjoy cyber-security, especially learning how to harden a system more so than being an epic [skid](https://en.wikipedia.org/wiki/Script_kiddie "script kiddie"). My secondary and complementary hobby is collecting and interpreting data, be it through normal statistics or rarely dEeP lEaRnInG. I have completed several internships, each focused on data science, cyber-security, or web development. For instance, I used vocal vibrations and deep learning to classify whether patients have vocal trauma while at MIT's [CSAIL](https://www.csail.mit.edu/).
 
